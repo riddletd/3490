@@ -1,0 +1,171 @@
+Script started on Tue 07 Feb 2017 01:49:28 PM EST
+(student:fq7)[1m[1:49pm][0m % javac Eat2.java
+(student:fq7)[1m[1:49pm][0m % java Eat2
+Paul: trying to eat...
+Paul grabbing salt
+Paul got salt
+Paul grabbing pepper
+Paul got pepper
+Paul: seasoning...
+Peter: trying to eat...
+Peter grabbing salt
+Peter failed getting salt
+Peter grabbing pepper
+Peter failed getting pepper
+Paul releasing salt
+Paul releasing pepper
+Paul: eating...
+Peter grabbing pepper
+Peter got pepper
+Peter grabbing salt
+Peter got salt
+Peter: seasoning...
+Paul grabbing pepper
+Paul failed getting pepper
+Paul grabbing salt
+Paul failed getting salt
+Peter releasing salt
+Peter releasing pepper
+Peter: eating...
+Paul grabbing pepper
+Paul got pepper
+Paul grabbing salt
+Paul got salt
+Paul: seasoning...
+Paul releasing salt
+Paul releasing pepper
+Paul: eating...
+Peter grabbing pepper
+Peter got pepper
+Peter grabbing salt
+Peter got salt
+Peter: seasoning...
+Peter releasing salt
+Peter releasing pepper
+Peter: eating...
+Paul grabbing pepper
+Paul got pepper
+Paul grabbing salt
+Paul got salt
+Paul: seasoning...
+Paul releasing salt
+Paul releasing pepper
+Paul: eating...
+Peter grabbing pepper
+Peter got pepper
+Peter grabbing salt
+Peter got salt
+Peter: seasoning...
+Peter releasing salt
+Peter releasing pepper
+Peter: eating...
+Paul grabbing salt
+Paul got salt
+Paul grabbing pepper
+Paul got pepper
+Paul: seasoning...
+Paul releasing salt
+Paul releasing pepper
+Paul: eating...
+Peter grabbing salt
+Peter got salt
+Peter grabbing pepper
+Peter got pepper
+Peter: seasoning...
+Peter releasing salt
+Peter releasing pepper
+Peter: eating...
+Paul grabbing salt
+Paul got salt
+Paul grabbing pepper
+Paul got pepper
+Paul: seasoning...
+Paul releasing salt
+Paul releasing pepper
+Paul: eating...
+Peter grabbing salt
+Peter got salt
+Peter grabbing pepper
+Peter got pepper
+Peter: seasoning...
+Peter releasing salt
+Peter releasing pepper
+Peter: eating...
+Paul grabbing salt
+Paul got salt
+Paul grabbing pepper
+Paul got pepper
+Paul: seasoning...
+Peter grabbing salt
+Peter failed getting salt
+Paul releasing salt
+Paul releasing pepper
+Paul: eating...
+Peter grabbing pepper
+Peter got pepper
+Peter grabbing pepper
+Peter failed getting pepper
+Peter grabbing salt
+Peter got salt
+Peter grabbing salt
+Peter failed getting salt
+Paul grabbing pepper
+Paul failed getting pepper
+Peter grabbing pepper
+Peter failed getting pepper
+Paul grabbing salt
+Paul failed getting salt
+Peter grabbing pepper
+Peter failed getting pepper
+Paul grabbing pepper
+Paul failed getting pepper
+Peter grabbing salt
+Peter failed getting salt
+Paul grabbing salt
+Paul failed getting salt
+Peter grabbing pepper
+Peter failed getting pepper
+Paul grabbing salt
+Paul failed getting salt
+Peter grabbing salt
+Peter failed getting salt
+Paul grabbing pepper
+Paul failed getting pepper
+Peter grabbing salt
+Peter failed getting salt
+Paul grabbing pepper
+Paul failed getting pepper
+Peter grabbing pepper
+Peter failed getting pepper
+Paul grabbing salt
+Paul failed getting salt
+Peter grabbing pepper
+Peter failed getting pepper
+Paul grabbing pepper
+Paul failed getting pepper
+Peter grabbing salt
+Peter failed getting salt
+Paul grabbing salt
+Paul failed getting salt
+Peter grabbing salt
+Peter failed getting salt
+Paul grabbing salt
+Paul failed getting salt
+Peter grabbing pepper
+Peter failed getting pepper
+Paul grabbing pepper
+Paul failed getting pepper
+Peter grabbing salt
+Peter failed getting salt
+Peter grabbing pepper
+Peter failed getting pepper
+Paul grabbing pepper
+Paul failed getting pepper
+Paul grabbing salt
+Paul failed getting salt
+Peter grabbing salt
+Peter failed getting salt
+^C(student:fq7)[1m[1:49pm][0m % exit
+exit
+
+Script done on Tue 07 Feb 2017 01:49:58 PM EST

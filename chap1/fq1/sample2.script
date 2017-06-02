@@ -1,0 +1,24 @@
+Script started on Mon 30 Jan 2017 11:23:51 AM EST
+(student)~/3490% cat Foo2.java
+class Foo2
+{
+    public static void main(String [] args)
+    {
+	for (int i = 0; i < 5; i++){
+	    int var = 1;
+	    System.out.println(var + i); //Inside
+	}
+	System.out.println(var); //Outside
+    }
+}
+(student)~/3490% javac Foo2.java
+Foo2.java:9: error: cannot find symbol
+	System.out.println(var); //Outside
+	                   ^
+  symbol:   variable var
+  location: class Foo2
+1 error
+(student)~/3490% exit
+exit
+
+Script done on Mon 30 Jan 2017 11:24:10 AM EST

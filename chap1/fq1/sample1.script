@@ -1,0 +1,28 @@
+Script started on Mon 30 Jan 2017 11:01:25 AM EST
+(student)~/3490% cat Foo1.java
+public class Foo1
+{
+    public void foo1()
+    {
+	if (true)
+	{
+	    public void foo1();
+	}
+	return;
+    }
+}
+(student)~/3490% javac Foo1.java
+Foo1.java:7: error: illegal start of expression
+	    public void foo1();
+	    ^
+Foo1.java:7: error: illegal start of expression
+	    public void foo1();
+	           ^
+Foo1.java:7: error: ';' expected
+	    public void foo1();
+	                    ^
+3 errors
+(student)~/3490% exit
+exit
+
+Script done on Mon 30 Jan 2017 11:02:34 AM EST

@@ -1,0 +1,49 @@
+Script started on Tue 07 Feb 2017 01:34:24 PM EST
+(student:fq7)[1m[1:34pm][0m % javac Eat.java
+(student:fq7)[1m[1:34pm][0m % java Eat
+Mary: trying to eat...
+Jane: trying to eat...
+Jane grabbing pepper
+Mary grabbing salt
+Jane got pepper
+Mary got salt
+Mary grabbing pepper
+Jane grabbing salt
+Mary failed getting pepper
+Jane failed getting salt
+Mary grabbing pepper
+Mary failed getting pepper
+Jane grabbing salt
+Jane failed getting salt
+Mary grabbing pepper
+Mary failed getting pepper
+Jane grabbing salt
+Jane failed getting salt
+Mary grabbing pepper
+Mary failed getting pepper
+Jane grabbing salt
+Jane failed getting salt
+Mary grabbing pepper
+Mary failed getting pepper
+Jane grabbing salt
+Jane failed getting salt
+Mary grabbing pepper
+Mary failed getting pepper
+Jane grabbing salt
+Jane failed getting salt
+Mary grabbing pepper
+Mary failed getting pepper
+Jane grabbing salt
+Jane failed getting salt
+Mary grabbing pepper
+Mary failed getting pepper
+Jane grabbing salt
+Jane failed getting salt
+Mary grabbing pepper
+Mary failed getting pepper
+Jane grabbing salt
+Jane failed getting salt
+^C(student:fq7)[1m[1:34pm][0m % exit
+exit
+
+Script done on Tue 07 Feb 2017 01:34:43 PM EST

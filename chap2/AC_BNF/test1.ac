@@ -1,0 +1,7 @@
+f a
+i abc
+a = 3.14
+abc = 5
+p a
+abc = abc * 5
+p abc
